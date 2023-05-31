@@ -15,7 +15,7 @@ public class SoSanh3so {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //TODO code application logic here
         Scanner sc = new Scanner(System.in);
         double a, b,c;
         System.out.println("Nhap so A: ");
